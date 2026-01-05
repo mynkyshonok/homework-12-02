@@ -60,3 +60,6 @@ customer         | customer_id
 3.2. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
+
+<img width="861" height="295" alt="image" src="https://github.com/user-attachments/assets/3abbfa8a-d9e3-4137-bc65-01d40f71a4af" />
+
