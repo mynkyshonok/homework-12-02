@@ -61,5 +61,6 @@ customer         | customer_id
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
-<img width="861" height="295" alt="image" src="https://github.com/user-attachments/assets/3abbfa8a-d9e3-4137-bc65-01d40f71a4af" />
+<img width="858" height="340" alt="image" src="https://github.com/user-attachments/assets/a64e718c-c181-4e83-af43-cd131d09b440" />
+
 
